@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "react-frontend",
+      "rootDirectory": "frontend"
+    },
+    {
+      "name": "backendnodejs",
+      "rootDirectory": "backend"
+    }
+  ]
+}
